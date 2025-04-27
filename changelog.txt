@@ -3,3 +3,9 @@
     Google
     Chess.com
     Github
+
+4/27/25
+  Created accounts for cloudanalystgo.com:
+    Microsoft
+    Azure
+    AWS
