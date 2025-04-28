@@ -9,3 +9,7 @@
     Microsoft
     Azure
     AWS
+
+4/28/25
+  Created accounts for cloudanalystgo.com:
+    YouTube
