@@ -13,3 +13,8 @@
 4/28/25
   Created accounts for cloudanalystgo.com:
     YouTube
+
+5/1/25
+  Changed YouTube Profile Picture.
+  Added YouTube watermark and cover photo.
+  Added scripts to CloudAnalystGo/bash on GitHub.
