@@ -18,3 +18,10 @@
   Changed YouTube Profile Picture.
   Added YouTube watermark and cover photo.
   Added scripts to CloudAnalystGo/bash on GitHub.
+
+5/2/25
+  Created a web server on AWS using pre-made script ws-fedora.sh. (Azure and other VMs are still active.)
+  Uploaded content in a structural format via WSCP. (This needs to be automated.)
+  Re-configured cloudanalystgo.conf to look for /img folder in the respective location.
+To-do:
+  Create script to move migrated WSCP files into /var/www/cloudanalystgo once uploaded to /home/fedora directory.
