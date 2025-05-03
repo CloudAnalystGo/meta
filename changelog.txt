@@ -25,3 +25,6 @@
   Re-configured cloudanalystgo.conf to look for /img folder in the respective location.
 To-do:
   Create script to move migrated WSCP files into /var/www/cloudanalystgo once uploaded to /home/fedora directory.
+
+5/3/25
+  Added border styling to the .code-block class.
