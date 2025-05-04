@@ -31,4 +31,5 @@ To-do:
   Installed unzip.
   Unpacked and installed JetBrains Mono font on /usr/share/fonts.
   Installed fontconfigure and refreshed cache.
-  Changed permissions to 775 on /var/www/cloudanalystgo/html.
+  Changed ownership permissions on /var/www/cloudanalystgo/ to 775.
+  Assigned ownership to root:webdev, and assigned user fedora to webdev.
