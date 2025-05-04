@@ -28,3 +28,7 @@ To-do:
 
 5/3/25
   Added border styling to the .code-block class.
+  Installed unzip.
+  Unpacked and installed JetBrains Mono font on /usr/share/fonts.
+  Installed fontconfigure and refreshed cache.
+  Changed permissions to 775 on /var/www/cloudanalystgo/html.
