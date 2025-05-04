@@ -34,3 +34,6 @@ To-do:
   Performed the first transfer of files from home to cloud via scp.
   Changed ownership permissions on /var/www/cloudanalystgo/ to 775.
   Assigned ownership to root:webdev, and assigned user fedora to webdev.
+
+5/4/25
+  Created a tablist navigation panel. (Project TabPanelsUI)
